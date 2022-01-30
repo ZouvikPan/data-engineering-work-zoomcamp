@@ -1,0 +1,4 @@
+Host <Your_project_name>
+    HostName <External_IP_of_your_VM_Instance>
+    User <Your_VM_Username>
+    IdentityFile <path_to_your_GCP_SSH_file>
